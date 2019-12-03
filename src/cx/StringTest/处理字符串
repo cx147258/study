@@ -1,0 +1,10 @@
+java中用于处理字符串常用的有三个类
+
+1.java.lang.String
+
+2.java.lang.StringBuffer
+
+3.java.lang.StringBuilder
+
+  String为fianl类，不能被继承且为常量字符串，所引用的字符串不能被改变
+

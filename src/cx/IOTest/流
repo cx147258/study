@@ -1,0 +1,5 @@
+Inputstream   字节输入流
+OutputStream  字节输出流
+
+Reader 字符输入流
+Writer 字符输出流
